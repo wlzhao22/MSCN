@@ -8,6 +8,10 @@ Multivariate time series anomaly detection plays a crucial role in many fields, 
 <img src="./png/MSCN.png" height="350" alt="" align=center/>
 </p>
 
+## Authors
+
+Min-Hua Zheng
+
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
